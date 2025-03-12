@@ -1,6 +1,6 @@
 Here's the list of my React sandboxes.
 The purpose is to have a reproducible exploration into the React ecosystem.  
-It is linked to the repo and sandbox:
+It is linked to the repo and sandbox, sorted from oldest to newest (i.e., newest at the bottom):
 
 1. React 17 without automatic batching. [[repo](https://github.com/artidata/react17-without-automatic-batching)][[sandbox](https://codesandbox.io/s/github/artidata/react17-without-automatic-batching)]
 2. React 18 with automatic batching. [[repo](https://github.com/artidata/react18-with-automatic-batching)][[sandbox](https://codesandbox.io/s/github/artidata/react18-with-automatic-batching)]
@@ -22,3 +22,4 @@ It is linked to the repo and sandbox:
 18. Minimal Accordion with react-spring. [[repo](https://github.com/artidata/minimal-accordion-react-spring)][[sandbox](https://codesandbox.io/s/github/artidata/minimal-accordion-react-spring)]
 19. Reproducible [useBoop](https://www.joshwcomeau.com/snippets/react-hooks/use-boop/) by joshwcomeau. [[sandbox](https://codesandbox.io/p/sandbox/useboop-5gjmck)]
 20. Randomized 3D coin spin with React Three Fiber. [[sandbox](https://codesandbox.io/p/sandbox/coin-spin-m4kmv4)]
+21. Getting my roblox avatar displayed in React Three Fiber.  [[sandbox](https://codesandbox.io/p/sandbox/stoic-sutherland-46f59d)]
